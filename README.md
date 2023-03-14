@@ -1,2 +1,2 @@
-# AprendendoGuit
-Estudando GitHuB
+# AprendendoGitHub
+Meu primeiro repositório no *GitHub*.
